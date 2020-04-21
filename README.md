@@ -1,7 +1,7 @@
-### BigIntComputer
+## BigIntComputer
 >大數計算機
 
-# Command : Set (Int/Dec/Com) / Print / Assign / Pow / Fac / or any expression.
+### Command : Set (Int/Dec/Com) / Print / Assign / Pow / Fac / or any expression.
 >(Command和type的第一個字母可為大寫或小寫，第二個字母開始請用小寫)
 
 Set 型態(Int/Dec/Com) 名稱
