@@ -1,7 +1,7 @@
 # BigIntComputer
 
 ### Command : 
-**Set (Int/Dec/Com) / Print / Assign / Pow / Fac / or any expression.**
+**Set (Int/Dec/Com) / Print / Assign / Pow / Fac / any expression.**
 >Command和type的第一個字母可為大寫或小寫,第二個字母開始請用小寫
 
 * **Set** *型態(Int/Dec/Com)* *名稱*
