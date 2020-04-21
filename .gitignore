@@ -6,6 +6,11 @@
 *.lo
 *.o
 *.obj
+*.vs
+*.vscode
+x64
+Debug
+
 
 # Precompiled Headers
 *.gch
@@ -30,3 +35,7 @@
 *.exe
 *.out
 *.app
+
+# Visual C++ cache files
+*.sdf
+*.VC.db
